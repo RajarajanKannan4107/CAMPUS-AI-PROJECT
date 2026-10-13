@@ -1,0 +1,19 @@
+Department of Computer Science and Engineering (CSE): Head of Department is Dr. Aris Thorne. Office location is Turing Block, Room 302. Official email is cse.hod@greenfield.edu, phone extension is 3101. HOD office hours are Monday through Thursday, 2:00 PM to 4:00 PM. Department administrative coordinator is in Room 301.
+
+Department of Electronics and Communication Engineering (ECE): Head of Department is Dr. Elena Rostova. Office location is Faraday Hall, Room 215. Official email is ece.hod@greenfield.edu, phone extension is 3201. HOD office hours for student meetings are Tuesday and Thursday, 10:00 AM to 12:00 PM.
+
+Department of Mechanical Engineering: Head of Department is Prof. Marcus Vance. Office location is Newton Complex, Room 104. Official email is mech.hod@greenfield.edu, phone extension is 3301. HOD office hours are Monday, Wednesday, and Friday, 11:00 AM to 1:00 PM.
+
+Department of Civil Engineering: Head of Department is Dr. Sophia Lin. Office location is Smeaton Wing, Room 112. Official email is civil.hod@greenfield.edu, phone extension is 3401. HOD office hours are Tuesday and Friday, 2:30 PM to 4:30 PM.
+
+Department of Management Studies (MBA): Head of Department is Dr. Rajiv Kapoor. Office location is Chanakya Block, Room 401. Official email is mba.hod@greenfield.edu, phone extension is 3501. HOD office hours are Monday through Friday, 3:00 PM to 5:00 PM.
+
+Department of Basic Sciences and Humanities: Head of Department is Dr. Clara Oswald. Office location is Ramanujan Hall, Room 201. Official email is bsh.hod@greenfield.edu, phone extension is 3010. Office hours are Monday through Thursday, 9:30 AM to 11:30 AM. The department oversees first-year mathematics, physics, chemistry, and communications.
+
+Office of the Dean of Academic Affairs: The Dean of Academic Affairs is Dr. Jonathan Briggs. Office location is Administrative Block, Room 101. Official email is dean.academics@greenfield.edu, phone extension is 1005. Office hours for student matters are Monday through Friday, 10:00 AM to 12:30 PM.
+
+Office of the Dean of Student Affairs: The Dean of Student Affairs is Dr. Sarah Jenkins. Office location is Student Activity Center (SAC), Room 204. Official email is dean.studentwelfare@greenfield.edu, phone extension is 1008. Office hours are Monday through Friday, 3:00 PM to 5:00 PM.
+
+Controller of Examinations (CoE) Office: The Controller of Examinations is Dr. Vikram Patel. Office location is Examination Center, Ground Floor. Official email is coe@greenfield.edu, phone extension is 1020. Office hours for grade sheets, verifications, and exam queries are Monday through Friday, 10:00 AM to 1:00 PM.
+
+Office of Admissions and International Relations: The Director of Admissions is Prof. Miriam Chen. Office location is Gateway Building, Room G-05. Official email is admissions@greenfield.edu, phone extension is 1015. Office hours are Monday through Friday, 9:00 AM to 5:00 PM.

@@ -1,0 +1,19 @@
+Central Library Timings and Borrowing Limits: The Central Library is open Monday to Saturday from 8:00 AM to 10:00 PM, and Sundays from 10:00 AM to 6:00 PM. During exam weeks, reading halls remain open 24/7. Undergraduate students can borrow up to 4 books for 14 days; postgraduate students can borrow 6 books for 30 days. Renewal is permitted once online. Late fee is $0.50 per day per book.
+
+Computing Laboratories and Advanced Tech Centers: Greenfield Institute houses 8 air-conditioned computer labs in Turing Block with over 500 modern workstations running Windows and Ubuntu Linux. GPU clusters for machine learning and AI research are located in Lab 6. Computing labs are open daily from 8:30 AM to 8:30 PM.
+
+Engineering Workshops and Maker Space: Fabrication, 3D printing, laser cutting, and robotics workshops are located in the Tech Park Building, Room 101. Material testing and civil labs are in Smeaton Wing. Open weekdays from 9:00 AM to 5:00 PM with technical supervisors on duty. Safety lab coats and goggles are strictly mandatory.
+
+Campus Hostels and Accommodation: Greenfield Institute provides separate residential hostels: Pine Hall and Oak Hall for boys, and Maple Hall and Willow Hall for girls. Accommodations include single, double, and triple-occupancy rooms with Wi-Fi, laundry facilities, study halls, and backup power. Curfew is 9:30 PM on weekdays and 10:30 PM on weekends.
+
+Cafeteria, Food Courts, and Dining Services: The Main Cafeteria in the Student Activity Center operates daily from 7:30 AM to 9:30 PM, serving nutritious vegetarian, non-vegetarian, vegan, and halal meals. A Nescafe coffee kiosk and Green Bites fresh juice bar near Turing Block operate until 11:00 PM.
+
+Gymnasium and Fitness Center: The campus gym in the Sports Complex is equipped with cardio machines, free weights, resistance equipment, and certified trainers. Operating hours are 6:00 AM to 9:00 AM and 4:30 PM to 9:00 PM, Monday through Saturday. Gym access is completely free for enrolled students presenting their student ID card.
+
+Sports Grounds and Outdoor Athletic Courts: Greenfield Institute features a standard 400-meter running track, a full-sized football ground, an illuminated cricket pitch, two basketball courts, and three indoor badminton courts. Sports gear can be checked out free of charge from the Sports Equipment Room between 4:00 PM and 8:00 PM daily.
+
+Campus Wi-Fi Network (GIT-Secure): High-speed Wi-Fi network 'GIT-Secure' delivers 1 Gbps internet connectivity across all academic blocks, hostels, library, and cafeteria. Students log in using their student portal roll number and password. Device MAC address registration is handled online via git-wifi.greenfield.edu.
+
+Campus Transport and Shuttle Bus Services: The institute operates 15 air-conditioned buses connecting the campus to metro stations and city neighborhoods. Morning pick-ups run between 7:45 AM and 8:15 AM, and evening drop-offs depart at 4:30 PM and 6:00 PM. Free electric golf-cart shuttles run between campus buildings every 15 minutes.
+
+Auditorium and Seminar Halls: The Dr. APJ Kalam Central Auditorium accommodates 1,200 attendees with digital acoustic and stage lighting systems for college events, convocations, and festivals. Each academic building also contains two 150-seat air-conditioned seminar halls for guest lectures and conferences.
