@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Campus Helper - Greenfield Institute of Technology</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="app-layout">
+    <div class="chat-wrapper">
+      
+      <!-- Top Navigation / Header -->
+      <header class="chat-header">
+        <div class="brand">
+          <div class="brand-icon">🎓</div>
+          <div class="brand-text">
+            <h1 class="brand-title">Campus Helper</h1>
+            <p class="brand-subtitle">Greenfield Institute of Technology</p>
+          </div>
+        </div>
+        <div class="status-badge" title="RAG Knowledge Base Connected">
+          <span class="status-indicator"></span>
+          <span class="status-label">Online</span>
+        </div>
+      </header>
+
+      <!-- Suggested Question Chips -->
+      <section class="suggestions-container" aria-label="Suggested Questions">
+        <div class="suggestions-header">Quick Questions:</div>
+        <div class="chips-list">
+          <button type="button" class="suggestion-chip" data-question="How do I apply for a bonafide certificate?">
+            How do I apply for a bonafide certificate?
+          </button>
+          <button type="button" class="suggestion-chip" data-question="What are the library timings?">
+            What are the library timings?
+          </button>
+          <button type="button" class="suggestion-chip" data-question="What is the attendance requirement?">
+            What is the attendance requirement?
+          </button>
+          <button type="button" class="suggestion-chip" data-question="Which scholarships are available?">
+            Which scholarships are available?
+          </button>
+        </div>
+      </section>
+
+      <!-- Chat Messages Container -->
+      <main class="chat-messages" id="chatMessages" role="log" aria-live="polite">
+        <div class="message bot">
+          <div class="message-avatar">🎓</div>
+          <div class="message-body">
+            <div class="message-content">
+              Welcome to <strong>Campus Helper</strong>! I am your virtual assistant for Greenfield Institute of Technology. Ask me about degree courses, departments, campus facilities, academic rules, or student services.
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <!-- Chat Input Area -->
+      <footer class="chat-footer">
+        <form class="chat-form" id="chatForm">
+          <input 
+            type="text" 
+            id="chatInput" 
+            class="chat-input" 
+            placeholder="Type your question here (e.g. fees, library, leave, HODs)..." 
+            autocomplete="off"
+            required
+          >
+          <button type="submit" id="sendButton" class="send-button" aria-label="Send message">
+            <svg class="send-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="22" y1="2" x2="11" y2="13"></line>
+              <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+            </svg>
+          </button>
+        </form>
+        <div class="demo-disclaimer">
+          Demo data - Greenfield Institute is fictional
+        </div>
+      </footer>
+
+    </div>
+  </div>
+
+  <script src="/script.js"></script>
+</body>
+</html>
